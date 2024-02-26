@@ -1,0 +1,71 @@
+
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    position: absolute;
+    height: 25%;
+    width: 100%;
+    background-color: black;
+    color: whitesmoke;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium';
+
+
+}
+
+.navupper{
+    
+    
+}
+.find{
+    position: absolute;
+    display: flex;
+    gap: 10px;
+    margin-left: 28px;
+}
+
+.end{
+    width: 90%;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 28px;
+    gap: 10px;
+}
+
+
+
+
+.end2{
+
+    height: auto;
+    width: 80%;
+    gap: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.line{
+    margin: 0,100px;
+    padding: 0, 50px;
+    position: relative;
+    display: inline-block;
+    width: 95%;
+    height: 2px;
+    display: flex;
+    justify-content: center;
+    
+    
+    ;
+}
+
+
+
+    
+    
+    
